@@ -1,24 +1,6 @@
 # University Management System with Agile SDLC Model
 
-## Index
-1. [Course Details](#course-details)
-2. [Submitted By](#submitted-by)
-3. [Submitted To](#submitted-to)
-4. [Abstract](#abstract)
-5. [Introduction](#introduction)
-6. [Objective](#objective)
-7. [SDLC Model](#sdlc-model)
-8. [Agile Model Description for UMS](#agile-model-description-for-ums)
-9. [Software Requirements Specification (SRS)](#software-requirements-specification-srs)
-    - [1. Introduction](#1-introduction)
-    - [2. Overall Description](#2-overall-description)
-    - [3. System Features](#3-system-features)
-    - [4. External Interface Requirements](#4-external-interface-requirements)
-    - [5. Non-Functional Requirements](#5-non-functional-requirements)
-    - [6. SDLC Phases for UMS](#6-sdlc-phases-for-university-management-system)
-10. [Conclusion](#conclusion)
 
----
 
 ## Course Details
 Hajee Mohammad Danesh Science and Technology University  
@@ -54,6 +36,25 @@ Hajee Mohammad Danesh Science and Technology University
 
 ## Date of Submission
 **November 24, 2024**
+
+---
+## Index
+1. [Course Details](#course-details)
+2. [Submitted By](#submitted-by)
+3. [Submitted To](#submitted-to)
+4. [Abstract](#abstract)
+5. [Introduction](#introduction)
+6. [Objective](#objective)
+7. [SDLC Model](#sdlc-model)
+8. [Agile Model Description for UMS](#agile-model-description-for-ums)
+9. [Software Requirements Specification (SRS)](#software-requirements-specification-srs)
+    - [1. Introduction](#1-introduction)
+    - [2. Overall Description](#2-overall-description)
+    - [3. System Features](#3-system-features)
+    - [4. External Interface Requirements](#4-external-interface-requirements)
+    - [5. Non-Functional Requirements](#5-non-functional-requirements)
+    - [6. SDLC Phases for UMS](#6-sdlc-phases-for-university-management-system)
+10. [Conclusion](#conclusion)
 
 ---
 
